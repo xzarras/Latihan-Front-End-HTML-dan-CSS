@@ -1,0 +1,21 @@
+h1 {
+    color: blue;
+    /* ini adalah komentar*/
+}
+
+h3 {
+    font-size: 40px;
+    font-family: sans-serif;
+}
+
+p {
+    background-color: aqua;
+}
+
+.merah {
+    color: red;
+}
+
+.biru {
+    color: blue;
+}
